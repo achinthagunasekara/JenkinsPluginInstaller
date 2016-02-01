@@ -11,6 +11,8 @@ Open the script using a test editor. Configure the following two items.
 | host | FQDN of the Jenkinds server |
 | url | URL of the plugin manager API |
 
+E.G.
+
 ```sh
 host=http://localhost:8080
 url=/pluginManager/installNecessaryPlugins
