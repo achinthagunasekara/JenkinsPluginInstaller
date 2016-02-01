@@ -6,7 +6,8 @@ This script sends HTTP POST request with plugin data and installs the plugin usi
 
 Open the script using a test editor. Configure the following two items.
 
-|-|-|
+| Config Item | Description |
+|-------------|-------------|
 | host | FQDN of the Jenkinds server |
 | url | URL of the plugin manager API |
 
